@@ -62,3 +62,6 @@ This project analyzes Netflix movies and TV shows using Power BI.
 
 ---
 
+![](Executive-Overview.png)
+
+![](Movie-Analysis.png)
