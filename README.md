@@ -61,13 +61,4 @@ This project analyzes Netflix movies and TV shows using Power BI.
 - Average runtime: 76.89 minutes.
 
 ---
-# 📷 Dashboard Screenshots
-
-## Executive Overview
-
-![Executive Overview](Executive-Overview.png)
-
-## Movie Analysis
-
-![Movie Analysis](Movie-Analysis.png)
 
